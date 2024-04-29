@@ -14,7 +14,7 @@ To integrate human input into agent execution, set the `human_input` flag in the
 ### Example:
 
 ```shell
-pip install crewai
+pip install crewai 'crewai[tools]'
 ```
 
 ```python
